@@ -29,3 +29,7 @@ int main(int argc, char *argv[])
 }
 
 ```
+
+The result is like this：
+
+![image](https://github.com/imtoby/ZUuid/blob/master/show_image/show.png)
